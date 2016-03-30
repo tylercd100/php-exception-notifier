@@ -1,0 +1,1 @@
+# php-exception-notifier
